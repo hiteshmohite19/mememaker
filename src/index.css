@@ -11,3 +11,38 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.banner{
+  align-content: center;
+}
+
+.singleBanner{
+  height: 400px;
+  width: 400px;
+  border: 1px solid;
+}
+
+.parallelBanner{
+  margin: auto;
+  height: 400px;
+  width: 400px;
+  padding: 0;
+}
+
+.horizontalBanner{
+  margin: auto;
+  height: 200px;
+  width: 400px;
+  padding: 0;
+}
+
+.select-box{
+  align-content: center;
+}
+
+.menu{
+  margin: auto;
+  width: 400px;
+  margin-bottom: 10px;
+  padding: 0px;
+}
